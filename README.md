@@ -2,11 +2,10 @@
 ## Simple FFT Application For Audio
 
 ## Build
----
+```
 mkdir build && cd build
 cmake .. && make -j8
----
-
+```
 ## demo
 ![img](pic/demo.png)
 
