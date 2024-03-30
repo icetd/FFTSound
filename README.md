@@ -12,4 +12,7 @@ cmake .. && make -j8
 ## Bug
 A segfault may occur when opening, and a segfault will definitely occur when closing.
 
-
+## Test Env
+```
+VMWare Ubuntu 20.04
+```
